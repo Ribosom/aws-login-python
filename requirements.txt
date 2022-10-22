@@ -1,2 +1,4 @@
 boto3
 moto[all]
+
+cryptography~=3.4.8
